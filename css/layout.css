@@ -43,8 +43,18 @@ footer
 
 }
 .post-body p{
-    text-align: justify;
+    text-align: justify;}
+
+    .post-body em {
+        color: black;
+}
+h2{
+    color:
+    #f16529;}
+
+.highlight{
+border-left: 4px lightblue solid;
+padding: 2em;
 
 }
-h2{color:
-    #f16529;}
+
